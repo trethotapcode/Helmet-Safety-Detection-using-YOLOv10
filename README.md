@@ -29,7 +29,7 @@
 5. Create an IO folder, upload the `IMAGE_FILE` in *JPG, JPEG, PNG* format to Colab using the command `!gdown`:
 ```bash
 
-    !gdown 'ID_image' -O './image/'
+    !gdown 'ID_IMAGE' -O './image/'
 
 ```
 
